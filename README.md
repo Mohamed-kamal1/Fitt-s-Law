@@ -1,1 +1,1 @@
-# Fit-s-Law
+# Fitt-s-Law
